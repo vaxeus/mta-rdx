@@ -1,0 +1,12 @@
+<meta>
+    <info author="Mr3b" version="0.1" name="Fixing" description="This script is a way to help you." type="script" />
+    <script src="client-side/fixing-size.lua" type="client" cache="false" />
+    <script src="config/data.lua" type="client" cache="false" />
+    <script src="server-side/update.lua" type="server" />
+
+    <file src="assets/fonts/tajawal.ttf" />
+
+    <export function="import" type="client" />
+    
+    <min_mta_version client="1.5.8-9.20998" server="1.5.4-9.11342" />
+</meta>
